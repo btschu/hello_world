@@ -23,6 +23,11 @@ print( your code here ) # with .format()
 print( your code here ) # with an f string
 copy
 
+
+
+
+# Task Checklist
+
 Create a new Python file called hello_world.py
 
 Write the code to print a literal string saying "Hello World" (#1)
